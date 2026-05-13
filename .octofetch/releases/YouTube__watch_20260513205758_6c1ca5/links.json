@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-2831",
+  "folder": "YouTube__watch_20260513205758_6c1ca5",
+  "base_name": "_2qnN3xhTWto_720p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/oct-gitub/Cloud-Downloads/releases/tag/co-releases-v1-2831",
+  "files": [
+    {
+      "name": "_2qnN3xhTWto_720p.mp4",
+      "url": "https://github.com/oct-gitub/Cloud-Downloads/releases/download/co-releases-v1-2831/_2qnN3xhTWto_720p.mp4",
+      "api_url": "https://api.github.com/repos/oct-gitub/Cloud-Downloads/releases/assets/419615006",
+      "id": 419615006,
+      "size": 364394244,
+      "download_count": 0
+    }
+  ]
+}
