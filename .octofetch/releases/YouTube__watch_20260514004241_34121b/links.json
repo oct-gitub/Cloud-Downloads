@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-4630",
+  "folder": "YouTube__watch_20260514004241_34121b",
+  "base_name": "YbctLny5ZD4_YbctLny5ZD4_1080p.mp4",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/oct-gitub/Cloud-Downloads/releases/tag/co-releases-v1-4630",
+  "files": [
+    {
+      "name": "YbctLny5ZD4_YbctLny5ZD4_1080p.mp4",
+      "url": "https://github.com/oct-gitub/Cloud-Downloads/releases/download/co-releases-v1-4630/YbctLny5ZD4_YbctLny5ZD4_1080p.mp4",
+      "api_url": "https://api.github.com/repos/oct-gitub/Cloud-Downloads/releases/assets/419748297",
+      "id": 419748297,
+      "size": 1065803928,
+      "download_count": 0
+    }
+  ]
+}
