@@ -1,0 +1,19 @@
+{
+  "destination": "release",
+  "tag": "co-releases-v1-1488",
+  "folder": "Other__Saved_Pictures_1450928_20260521203919_fccb87",
+  "base_name": "Other__Saved_Pictures_1450928_20260521203919_fccb87.7z",
+  "is_split": false,
+  "part_count": 1,
+  "release_url": "https://github.com/oct-gitub/Cloud-Downloads/releases/tag/co-releases-v1-1488",
+  "files": [
+    {
+      "name": "Other__Saved_Pictures_1450928_20260521203919_fccb87.7z",
+      "url": "https://github.com/oct-gitub/Cloud-Downloads/releases/download/co-releases-v1-1488/Other__Saved_Pictures_1450928_20260521203919_fccb87.7z",
+      "api_url": "https://api.github.com/repos/oct-gitub/Cloud-Downloads/releases/assets/426457044",
+      "id": 426457044,
+      "size": 50105720,
+      "download_count": 0
+    }
+  ]
+}
